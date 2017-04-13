@@ -41,8 +41,13 @@ nav li {
 }
 nav li>a{
   padding: 10px 15px;
-  line-height: 28px;
+  line-height: 40px;
   text-decoration: none;
   color: #ccc;
 
+}
+nav li>a:hover{
+   color: #fff;
+   text-decoration: none;
+   cursor: pointer;
 }

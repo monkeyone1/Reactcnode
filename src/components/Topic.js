@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import axios from 'axios';
 import Replies from './Replies.js';
-import '../css/topic.css'
+
 import moment from 'moment';
 class Topic extends Component {
   constructor() {

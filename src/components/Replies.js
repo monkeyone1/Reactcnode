@@ -9,7 +9,8 @@ class Replise extends Component {
     return (
       <div style={{
         backgroundColor:'#fff',
-        borderRadius:'3px'
+        borderRadius:'3px',
+
       }}>
 
         <div style={{
